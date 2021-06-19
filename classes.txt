@@ -1,0 +1,4 @@
+wearing helmet
+wearing vest
+not wearing vest
+not wearing helmet

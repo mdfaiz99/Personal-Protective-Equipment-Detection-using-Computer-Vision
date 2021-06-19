@@ -1,0 +1,14 @@
+Google Drive link:
+
+https://drive.google.com/drive/folders/1Sxc2dcs6vzMSYAfsRbSAi0lLmLmSKSLm?usp=sharing
+
+The yolov3 folder contains:
+
+1) classes.txt
+2) images.zip
+3) yolov3_testing.cfg
+4) yolov3_training_1000.weights
+5) yolov3_training_2000.weights
+6) yolov3_training_3000.weights
+7) yolov3_training_4000.weights
+8) yolov3_training_last.weights
